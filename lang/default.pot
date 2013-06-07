@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Video Product Tab\n"
+"POT-Creation-Date: 2013-06-07 20:18+0100\n"
+"PO-Revision-Date: 2013-06-07 20:18+0100\n"
+"Last-Translator: \n"
+"Language-Team: Seb's Studio <sebastien@sebs-studio.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+
+#: C:\Users\Sebs
+#: Studio\GitHub\WooCommerce-Video-Product-Tab/woocommerce-video-tab.php:93
+msgid "Donate"
+msgstr ""
+
+#: C:\Users\Sebs
+#: Studio\GitHub\WooCommerce-Video-Product-Tab/woocommerce-video-tab.php:94
+msgid "More WooCommerce Extensions"
+msgstr ""
+
+#: C:\Users\Sebs
+#: Studio\GitHub\WooCommerce-Video-Product-Tab/woocommerce-video-tab.php:203
+#: Studio\GitHub\WooCommerce-Video-Product-Tab/woocommerce-video-tab.php:307
+msgid "Video"
+msgstr ""
+
+#: C:\Users\Sebs
+#: Studio\GitHub\WooCommerce-Video-Product-Tab/woocommerce-video-tab.php:225
+msgid "Video Title"
+msgstr ""
+
+#: C:\Users\Sebs
+#: Studio\GitHub\WooCommerce-Video-Product-Tab/woocommerce-video-tab.php:226
+msgid "Enter your title here."
+msgstr ""
+
+#: C:\Users\Sebs
+#: Studio\GitHub\WooCommerce-Video-Product-Tab/woocommerce-video-tab.php:233
+msgid "Hide Title ?"
+msgstr ""
+
+#: C:\Users\Sebs
+#: Studio\GitHub\WooCommerce-Video-Product-Tab/woocommerce-video-tab.php:234
+msgid "Enable this option to hide the title in the video tab."
+msgstr ""
+
+#: C:\Users\Sebs
+#: Studio\GitHub\WooCommerce-Video-Product-Tab/woocommerce-video-tab.php:241
+msgid "Embed Code"
+msgstr ""
+
+#: C:\Users\Sebs
+#: Studio\GitHub\WooCommerce-Video-Product-Tab/woocommerce-video-tab.php:242
+msgid "Place your video embed code here."
+msgstr ""
+
+#: C:\Users\Sebs
+#: Studio\GitHub\WooCommerce-Video-Product-Tab/woocommerce-video-tab.php:345
+msgid ""
+"requires <a href=\"http://www.woothemes.com/woocommerce/\" target=\"_blank"
+"\">WooCommerce</a> to be activated in order to work. Please install and "
+"activate <a href=\""
+msgstr ""

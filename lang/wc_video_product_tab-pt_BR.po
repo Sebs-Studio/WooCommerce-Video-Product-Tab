@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Video Product Tab\n"
+"POT-Creation-Date: 2013-03-07 04:30+0100\n"
+"PO-Revision-Date: 2013-04-02 16:09-0300\n"
+"Last-Translator: Johnny Bauer <thankamikase@yahoo.com.br>\n"
+"Language-Team: Johnny Bauer <thankamikase@yahoo.com.br>\n"
+"Language: Português\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-video-product-tab\woocommerce-video-product-tab/tags/1.2/woocommerce-video-tab.php:99
+#: Studio\woocommerce-video-product-tab\woocommerce-video-product-tab/tags/2.0/woocommerce-video-tab.php:93
+#: Studio\woocommerce-video-product-tab\woocommerce-video-product-tab/tags/2.0-beta-1/woocommerce-video-tab.php:105
+#: Studio\woocommerce-video-product-tab\woocommerce-video-product-tab/trunk/woocommerce-video-tab.php:93
+msgid "Donate"
+msgstr "Faça uma doação"
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-video-product-tab\woocommerce-video-product-tab/tags/1.2/woocommerce-video-tab.php:113
+#: Studio\woocommerce-video-product-tab\woocommerce-video-product-tab/tags/1.2/woocommerce-video-tab.php:130
+#: Studio\woocommerce-video-product-tab\woocommerce-video-product-tab/tags/1.2/woocommerce-video-tab.php:156
+#: Studio\woocommerce-video-product-tab\woocommerce-video-product-tab/tags/2.0/woocommerce-video-tab.php:128
+#: Studio\woocommerce-video-product-tab\woocommerce-video-product-tab/tags/2.0/woocommerce-video-tab.php:203
+#: Studio\woocommerce-video-product-tab\woocommerce-video-product-tab/tags/2.0/woocommerce-video-tab.php:300
+#: Studio\woocommerce-video-product-tab\woocommerce-video-product-tab/tags/2.0-beta-1/woocommerce-video-tab.php:141
+#: Studio\woocommerce-video-product-tab\woocommerce-video-product-tab/tags/2.0-beta-1/woocommerce-video-tab.php:242
+#: Studio\woocommerce-video-product-tab\woocommerce-video-product-tab/tags/2.0-beta-1/woocommerce-video-tab.php:339
+#: Studio\woocommerce-video-product-tab\woocommerce-video-product-tab/trunk/woocommerce-video-tab.php:128
+#: Studio\woocommerce-video-product-tab\woocommerce-video-product-tab/trunk/woocommerce-video-tab.php:203
+#: Studio\woocommerce-video-product-tab\woocommerce-video-product-tab/trunk/woocommerce-video-tab.php:300
+msgid "Video"
+msgstr "Vídeo"
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-video-product-tab\woocommerce-video-product-tab/tags/1.2/woocommerce-video-tab.php:175
+#: Studio\woocommerce-video-product-tab\woocommerce-video-product-tab/tags/2.0/woocommerce-video-tab.php:234
+#: Studio\woocommerce-video-product-tab\woocommerce-video-product-tab/tags/2.0-beta-1/woocommerce-video-tab.php:273
+#: Studio\woocommerce-video-product-tab\woocommerce-video-product-tab/trunk/woocommerce-video-tab.php:234
+msgid "Embed Code"
+msgstr "Código de Inserção"
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-video-product-tab\woocommerce-video-product-tab/tags/1.2/woocommerce-video-tab.php:175
+#: Studio\woocommerce-video-product-tab\woocommerce-video-product-tab/tags/2.0/woocommerce-video-tab.php:235
+#: Studio\woocommerce-video-product-tab\woocommerce-video-product-tab/tags/2.0-beta-1/woocommerce-video-tab.php:274
+#: Studio\woocommerce-video-product-tab\woocommerce-video-product-tab/trunk/woocommerce-video-tab.php:235
+msgid "Place your video embed code here."
+msgstr "Insira o código de inserção do seu vídeo aqui."
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-video-product-tab\woocommerce-video-product-tab/tags/1.2/woocommerce-video-tab.php:240
+#: Studio\woocommerce-video-product-tab\woocommerce-video-product-tab/tags/2.0-beta-1/woocommerce-video-tab.php:376
+msgid ""
+" requires <a href=\"http://www.woothemes.com/woocommerce/\" target=\"_blank"
+"\">WooCommerce</a> to be activated in order to work. Please install and "
+"activate <a href=\""
+msgstr ""
+"Requer que o <a href=\"http://www.woothemes.com/woocommerce/\" target="
+"\"_blank\">WooCommerce</a> esteja ativado para funcionar. Por favor instale "
+"e ative <a href=\""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-video-product-tab\woocommerce-video-product-tab/tags/2.0/woocommerce-video-tab.php:94
+#: Studio\woocommerce-video-product-tab\woocommerce-video-product-tab/tags/2.0-beta-1/woocommerce-video-tab.php:106
+#: Studio\woocommerce-video-product-tab\woocommerce-video-product-tab/trunk/woocommerce-video-tab.php:94
+msgid "More WooCommerce Extensions"
+msgstr "Mais extensões para WooCommerce"
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-video-product-tab\woocommerce-video-product-tab/tags/2.0/woocommerce-video-tab.php:225
+#: Studio\woocommerce-video-product-tab\woocommerce-video-product-tab/tags/2.0-beta-1/woocommerce-video-tab.php:264
+#: Studio\woocommerce-video-product-tab\woocommerce-video-product-tab/trunk/woocommerce-video-tab.php:225
+msgid "Video Title"
+msgstr "Título do Vídeo"
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-video-product-tab\woocommerce-video-product-tab/tags/2.0/woocommerce-video-tab.php:226
+#: Studio\woocommerce-video-product-tab\woocommerce-video-product-tab/tags/2.0-beta-1/woocommerce-video-tab.php:265
+#: Studio\woocommerce-video-product-tab\woocommerce-video-product-tab/trunk/woocommerce-video-tab.php:226
+msgid "Enter your title here."
+msgstr "Insira o título do seu vídeo aqui."
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-video-product-tab\woocommerce-video-product-tab/tags/2.0/woocommerce-video-tab.php:337
+#: Studio\woocommerce-video-product-tab\woocommerce-video-product-tab/trunk/woocommerce-video-tab.php:337
+msgid ""
+"requires <a href=\"http://www.woothemes.com/woocommerce/\" target=\"_blank"
+"\">WooCommerce</a> to be activated in order to work. Please install and "
+"activate <a href=\""
+msgstr ""
+"Requer que o <a href=\"http://www.woothemes.com/woocommerce/\" target="
+"\"_blank\">WooCommerce</a> esteja ativado para funcionar. Por favor instale "
+"e ative <a href=\""
