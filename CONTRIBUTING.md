@@ -27,4 +27,4 @@ At this point you're waiting on me to merge your pull request. I'll review all p
 
 * [General GitHub documentation](http://help.github.com/)
 * [GitHub pull request documentation](http://help.github.com/send-pull-requests/)
-* [Seb's Studio Forum](http://www.sebs-studio.com/support/)
+* [Support Forum](http://wordpress.org/support/plugin/woocommerce-video-product-tab)
