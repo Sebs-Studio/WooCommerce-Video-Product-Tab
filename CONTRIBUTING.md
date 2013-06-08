@@ -4,7 +4,7 @@ Community made patches, localisations, bug reports and contributions are always 
 
 When contributing please ensure you follow the guidelines below so that we can keep on top of things.
 
-__note__ GitHub is for bug reports and contributions only - if you have a support question or a request for a customisation don't post here. Use [Seb's Studio Forum](http://www.sebs-studio.com/support/) instead.
+__note__ GitHub is for bug reports and contributions only - if you have a support question or a request for a customisation don't post here. Use [WordPress Support Forum](http://wordpress.org/support/plugin/woocommerce-video-product-tab) instead.
 
 ## Getting Started
 
@@ -27,4 +27,4 @@ At this point you're waiting on me to merge your pull request. I'll review all p
 
 * [General GitHub documentation](http://help.github.com/)
 * [GitHub pull request documentation](http://help.github.com/send-pull-requests/)
-* [Support Forum](http://wordpress.org/support/plugin/woocommerce-video-product-tab)
+* [WordPress Support Forum](http://wordpress.org/support/plugin/woocommerce-video-product-tab)
