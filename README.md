@@ -18,9 +18,11 @@ When adding a product select the "Video" tab and insert your video embed code wh
 WooCommerce Video Product Tab works with any theme that supports WooCommerce.
 
 ## Localization
-English (default) - always included. *.po file (default.po) in language folder for translations.
+* English (default) - always included. *.po file (default.po) in language folder for translations.
+* French
+* Brazilian Portuguese by Johnny Bauer.
 
-If you do a translation for your site please send it to me to include as part of the plugin language folder. I'll acknowledge your work here. To send your translation files contact me. (http://www.sebs-studio.com/contact/)
+If you do a translation for the plugin, please send it to me to include as part of the plugin language folder. I'll acknowledge your work here. To send your translation files contact me. (http://www.sebs-studio.com/contact/)
 
 ## Related Plugins
 
@@ -82,6 +84,10 @@ Yes you can. Simply make a new line and paste the next embed code underneath or 
 2. How to add a video for your product.
 
 ## Changelog
+
+__2.3.1 - 10/06/2013__
+
+* Added - French translation by Seb's Studio
 
 __2.3 - 07/06/2013__
 
