@@ -3,13 +3,18 @@
  * Plugin Name: WooCommerce Video Product Tab
  * Plugin URI: http://www.sebs-studio.com/wp-plugins/woocommerce-video-product-tab
  * Description: Extends WooCommerce to allow you to add a Video to the Product page. An additional tab is added on the single products page to allow your customers to view the video you embeded. 
- * Version: 2.3
- * Author: Sebs Studio (Sebastien)
+ * Version: 2.3.1
+ * Author: Sebs Studio
  * Author URI: http://www.sebs-studio.com
+ * Requires at least: 3.1
+ * Tested up to: 3.5.1
  *
  * Text Domain: wc_video_product_tab
  * Domain Path: /lang/
- *
+ * 
+ * Copyright: © 2013 Sebs Studio.
+ * License: GNU General Public License v3.0
+ * License URI: http://www.gnu.org/licenses/gpl-3.0.html
  */
 
 if(!defined('ABSPATH')) exit; // Exit if accessed directly
@@ -90,6 +95,8 @@ if(in_array('woocommerce/woocommerce.php', apply_filters('active_plugins', get_o
 					return $links;
 				}
 				if($file == WooCommerce_Video_Product_Tab::$plugin_basefile){
+					$links[] = '<a href="http://docs.sebs-studio.com/user-guide/extension/woocommerce-video-product-tab/" target="_blank">'.__('Docs', 'wc_video_product_tab').'</a>';
+					$links[] = '<a href="http://wordpress.org/support/plugin/woocommerce-video-product-tab" target="_blank">'.__('Support', 'wc_video_product_tab').'</a>';
 					$links[] = '<a href="http://www.sebs-studio.com/donation/" target="_blank">'.__('Donate', 'wc_video_product_tab').'</a>';
 					$links[] = '<a href="http://www.sebs-studio.com/wp-plugins/woocommerce-extensions/" target="_blank">'.__('More WooCommerce Extensions', 'wc_video_product_tab').'</a>';
 				}

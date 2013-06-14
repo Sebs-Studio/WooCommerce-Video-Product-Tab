@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: WooCommerce Video Product Tab\n"
-"POT-Creation-Date: 2013-06-07 20:18+0100\n"
-"PO-Revision-Date: 2013-06-07 20:18+0100\n"
+"POT-Creation-Date: 2013-06-13 13:32+0100\n"
+"PO-Revision-Date: 2013-06-13 13:32+0100\n"
 "Last-Translator: \n"
 "Language-Team: Seb's Studio <sebastien@sebs-studio.com>\n"
 "Language: English\n"
@@ -13,54 +13,64 @@ msgstr ""
 "X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
 "X-Poedit-Basepath: .\n"
 
-#: C:\Users\Sebs
-#: Studio\GitHub\WooCommerce-Video-Product-Tab/woocommerce-video-tab.php:93
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-video-product-tab\woocommerce-video-product-tab\trunk/woocommerce-video-tab.php:98
+msgid "Docs"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-video-product-tab\woocommerce-video-product-tab\trunk/woocommerce-video-tab.php:99
+msgid "Support"
+msgstr ""
+
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-video-product-tab\woocommerce-video-product-tab\trunk/woocommerce-video-tab.php:100
 msgid "Donate"
 msgstr ""
 
-#: C:\Users\Sebs
-#: Studio\GitHub\WooCommerce-Video-Product-Tab/woocommerce-video-tab.php:94
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-video-product-tab\woocommerce-video-product-tab\trunk/woocommerce-video-tab.php:101
 msgid "More WooCommerce Extensions"
 msgstr ""
 
-#: C:\Users\Sebs
-#: Studio\GitHub\WooCommerce-Video-Product-Tab/woocommerce-video-tab.php:203
-#: Studio\GitHub\WooCommerce-Video-Product-Tab/woocommerce-video-tab.php:307
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-video-product-tab\woocommerce-video-product-tab\trunk/woocommerce-video-tab.php:210
+#: Studio\woocommerce-video-product-tab\woocommerce-video-product-tab\trunk/woocommerce-video-tab.php:314
 msgid "Video"
 msgstr ""
 
-#: C:\Users\Sebs
-#: Studio\GitHub\WooCommerce-Video-Product-Tab/woocommerce-video-tab.php:225
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-video-product-tab\woocommerce-video-product-tab\trunk/woocommerce-video-tab.php:232
 msgid "Video Title"
 msgstr ""
 
-#: C:\Users\Sebs
-#: Studio\GitHub\WooCommerce-Video-Product-Tab/woocommerce-video-tab.php:226
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-video-product-tab\woocommerce-video-product-tab\trunk/woocommerce-video-tab.php:233
 msgid "Enter your title here."
 msgstr ""
 
-#: C:\Users\Sebs
-#: Studio\GitHub\WooCommerce-Video-Product-Tab/woocommerce-video-tab.php:233
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-video-product-tab\woocommerce-video-product-tab\trunk/woocommerce-video-tab.php:240
 msgid "Hide Title ?"
 msgstr ""
 
-#: C:\Users\Sebs
-#: Studio\GitHub\WooCommerce-Video-Product-Tab/woocommerce-video-tab.php:234
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-video-product-tab\woocommerce-video-product-tab\trunk/woocommerce-video-tab.php:241
 msgid "Enable this option to hide the title in the video tab."
 msgstr ""
 
-#: C:\Users\Sebs
-#: Studio\GitHub\WooCommerce-Video-Product-Tab/woocommerce-video-tab.php:241
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-video-product-tab\woocommerce-video-product-tab\trunk/woocommerce-video-tab.php:248
 msgid "Embed Code"
 msgstr ""
 
-#: C:\Users\Sebs
-#: Studio\GitHub\WooCommerce-Video-Product-Tab/woocommerce-video-tab.php:242
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-video-product-tab\woocommerce-video-product-tab\trunk/woocommerce-video-tab.php:249
 msgid "Place your video embed code here."
 msgstr ""
 
-#: C:\Users\Sebs
-#: Studio\GitHub\WooCommerce-Video-Product-Tab/woocommerce-video-tab.php:345
+#: D:\Dropbox\Sebs
+#: Studio\woocommerce-video-product-tab\woocommerce-video-product-tab\trunk/woocommerce-video-tab.php:352
 msgid ""
 "requires <a href=\"http://www.woothemes.com/woocommerce/\" target=\"_blank"
 "\">WooCommerce</a> to be activated in order to work. Please install and "

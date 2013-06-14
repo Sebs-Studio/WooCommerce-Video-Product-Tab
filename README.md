@@ -87,6 +87,8 @@ Yes you can. Simply make a new line and paste the next embed code underneath or 
 
 __2.3.1 - 10/06/2013__
 
+* Added - Plugin links to documentation and support forum.
+* Updated - Default (English) language file.
 * Added - French translation by Seb's Studio
 
 __2.3 - 07/06/2013__
