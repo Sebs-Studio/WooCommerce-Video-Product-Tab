@@ -12,7 +12,7 @@
  * Text Domain: wc_video_product_tab
  * Domain Path: /lang/
  * 
- * Copyright: © 2013 Sebs Studio.
+ * Copyright: ï¿½ 2013 Sebs Studio.
  * License: GNU General Public License v3.0
  * License URI: http://www.gnu.org/licenses/gpl-3.0.html
  */
@@ -37,7 +37,8 @@ if(!function_exists('woo_video_tab_min_required')){
 }
 
 // Checks if the WooCommerce plugins is installed and active.
-if(in_array('woocommerce/woocommerce.php', apply_filters('active_plugins', get_option('active_plugins')))){
+include_once( ABSPATH . 'wp-admin/includes/plugin.php' );
+if(is_plugin_active('woocommerce/woocommerce.php')){
 
 	/* Localisation */
 	$locale = apply_filters('plugin_locale', get_locale(), 'woocommerce-video-product-tab');
